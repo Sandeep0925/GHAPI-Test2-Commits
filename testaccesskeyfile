@@ -1,5 +1,6 @@
 Testing Access Keys
 Increasing the commit history to test different scenarios
+Adding new commit to the commit history to test Trufflehog
 ================================
 Password = $@ndeep
 Password = @#$fdfkffl123
